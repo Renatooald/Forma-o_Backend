@@ -1,2 +1,2 @@
-# Forma-o_Backend
+# Formação_Backend
 Arquivos de estudos de Back-end com Javascript na Alura
